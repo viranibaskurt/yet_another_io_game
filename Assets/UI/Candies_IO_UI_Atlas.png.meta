@@ -1,0 +1,2109 @@
+fileFormatVersion: 2
+guid: bc9c935171af7644d9480959b395363a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5229324469295290023
+    second: Arrow
+  - first:
+      213: -7030709264893387459
+    second: Hand
+  - first:
+      213: 1454296914501444454
+    second: Button_Gradient_Green
+  - first:
+      213: 5319005658699251384
+    second: Button_Gradient_Red
+  - first:
+      213: 7828957734041037243
+    second: Button_Gradient_Blue
+  - first:
+      213: 7318392356847115233
+    second: Button_BG_Border
+  - first:
+      213: -8886462482041291907
+    second: Button_Gradient_Yellow
+  - first:
+      213: 5534102210662270438
+    second: Button_BG_Border_Box
+  - first:
+      213: -6145369120549715829
+    second: Icon_Restart
+  - first:
+      213: 5142011423373843709
+    second: Swipe_to_Play
+  - first:
+      213: -3345955659064973440
+    second: Leaderboard
+  - first:
+      213: -7444742089286766325
+    second: Excellent
+  - first:
+      213: -3676865817152555543
+    second: Try_Again
+  - first:
+      213: -8672520849855846789
+    second: Leaderboard_Panel
+  - first:
+      213: 7699227111840053894
+    second: 2x
+  - first:
+      213: -7978494832544193569
+    second: 3x
+  - first:
+      213: 5689885707708548988
+    second: 4x
+  - first:
+      213: 1154031588808965311
+    second: 5x
+  - first:
+      213: -4337389327713862383
+    second: 6x
+  - first:
+      213: 8950984762517010061
+    second: 7x
+  - first:
+      213: -7793099968137178379
+    second: Level_Count_BG
+  - first:
+      213: 6334674353232017821
+    second: Star_Icon
+  - first:
+      213: -7741220275272291685
+    second: Good_Job
+  - first:
+      213: 2636827738186422851
+    second: Button_NL_BG
+  - first:
+      213: 8037399458195503335
+    second: Button_NL_Gradient
+  - first:
+      213: -5736994497292208647
+    second: Button_NL_Text
+  - first:
+      213: 7456196967625139979
+    second: Button_Gradient_Lime
+  - first:
+      213: 3558897404871994543
+    second: Button_BG_Border_Box_Lime
+  - first:
+      213: -3480772308062505763
+    second: Icon_Pause
+  - first:
+      213: 7547659911527203845
+    second: Icon_Resume
+  - first:
+      213: -5233193124505690789
+    second: Leaderboard_Element_BG
+  - first:
+      213: 5653628066499333488
+    second: Leaderboard_Element
+  - first:
+      213: 5354602486984141560
+    second: Leaderboard_Element_Number_BG
+  - first:
+      213: 2460246547940834606
+    second: Infinity_Symbol
+  - first:
+      213: -8206479541918764176
+    second: Crown_Symbol
+  - first:
+      213: 2289013652986252195
+    second: Health_Bar_BG_Fill
+  - first:
+      213: 7196361781497824300
+    second: Health_Bar_Heart_Icon
+  - first:
+      213: -6499446703837367
+    second: Health_Bar_BG
+  - first:
+      213: 1141328769399864671
+    second: Health_Bar_Slider_BG
+  - first:
+      213: -7780331925158628547
+    second: Health_Bar_Slider_Fill
+  - first:
+      213: -7542003128356460423
+    second: Leaderboard_Element_InGame
+  - first:
+      213: 838578923147396022
+    second: Leaderboard_Element_Number_BG_InGame
+  - first:
+      213: 3682905987150942143
+    second: Button_BG_Border_Box_Yellow_Small
+  - first:
+      213: 3912158264390476821
+    second: Button_BG_Border_Box_Pink_Small
+  - first:
+      213: -1667245443514480688
+    second: Button_Gradient_Yellow_Small
+  - first:
+      213: -9190167149590223589
+    second: Button_Gradient_Pink_Small
+  - first:
+      213: 3439339115826068474
+    second: Time_Icon
+  - first:
+      213: -8104550206156642815
+    second: Image_Ready
+  - first:
+      213: -2940624978194281934
+    second: Image_Set
+  - first:
+      213: 4201130362497630015
+    second: Image_Go
+  - first:
+      213: -7319935024785648075
+    second: SugarRush_Slider_Fill
+  - first:
+      213: -5797706475215947742
+    second: SugarRush_Slider_BG
+  - first:
+      213: 8290710384935989704
+    second: SugarRush_Icon
+  - first:
+      213: -8789362527244300021
+    second: Size_Up_S
+  - first:
+      213: 8618333258079278455
+    second: Size_Up_I
+  - first:
+      213: -4287113205543180184
+    second: Size_Up_Z
+  - first:
+      213: -9067729593018683176
+    second: Size_Up_E
+  - first:
+      213: 3984117277098209743
+    second: Size_Up_U
+  - first:
+      213: -2995001041006891427
+    second: Size_Up_P
+  - first:
+      213: 5789716496026119838
+    second: Size_Up_!
+  - first:
+      213: 2740595217675880556
+    second: Text_Calorie_Meter
+  - first:
+      213: -2406154539398579772
+    second: Candies_IO_UI_Atlas_32
+  - first:
+      213: -5525985568867656586
+    second: Candies_IO_UI_Atlas_33
+  - first:
+      213: 6672014671913814422
+    second: Candies_IO_UI_Atlas_34
+  - first:
+      213: 8204798545058554120
+    second: Player_Icons_Water
+  - first:
+      213: -3215419877897724688
+    second: Candies_IO_UI_Atlas_36
+  - first:
+      213: 6627564001542707146
+    second: Player_Icons_Happy
+  - first:
+      213: 7005620645559052810
+    second: Player_Icons_Fire
+  - first:
+      213: 554983087974052226
+    second: Player_Icons_Angry
+  - first:
+      213: 2476713221740811609
+    second: Player_Icons_Wind
+  - first:
+      213: -3909403756705102861
+    second: Candies_IO_UI_Atlas_41
+  - first:
+      213: -5251727588029317628
+    second: Player_Icons_Sword
+  - first:
+      213: 7494469618792408083
+    second: Player_Icons_Flag_Germany
+  - first:
+      213: -1792167296730116668
+    second: CandiePlayer_Icons_Helm
+  - first:
+      213: 3478517982411416400
+    second: Player_Icons_Flag_France
+  - first:
+      213: 1882466866276117105
+    second: Player_Icons_Bomb
+  - first:
+      213: 4595837749244104355
+    second: Player_Icons_Flag_Italy
+  - first:
+      213: 8082718697792962822
+    second: Candies_IO_UI_Atlas_48
+  - first:
+      213: -2770804597676453505
+    second: Player_Icons_Pirate_Cap
+  - first:
+      213: 8475191954265712077
+    second: Player_Icons_Shield
+  - first:
+      213: 3805685117770632788
+    second: Player_Icons_Flag_USA
+  - first:
+      213: -2748884722966305625
+    second: Player_Icons_Rook
+  - first:
+      213: -7705060717792909105
+    second: Candies_IO_UI_Atlas_53
+  - first:
+      213: 7661593980248972370
+    second: Player_Icons_Pirate
+  - first:
+      213: -2481099204483102776
+    second: Player_Icons_Flag_UK
+  - first:
+      213: -5341139306958505013
+    second: Player_Icons_Knight
+  - first:
+      213: -4518154412231226686
+    second: Player_Icons_Rocket
+  - first:
+      213: -462634397824402428
+    second: Player_Icons_Flag_Spain
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 48
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arrow
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 970
+        width: 112
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a69a9f06ea429840800000000000000
+      internalID: 5229324469295290023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 942
+        width: 130
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d5bf28c27ed6e90800000000000000
+      internalID: -7030709264893387459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_Gradient_Green
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1881
+        width: 300
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6632ecaa653be2410800000000000000
+      internalID: 1454296914501444454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_Gradient_Red
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1881
+        width: 300
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bebf0d1777e0d940800000000000000
+      internalID: 5319005658699251384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_Gradient_Blue
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1693
+        width: 300
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9201b549b06ac60800000000000000
+      internalID: 7828957734041037243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_BG_Border
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1683
+        width: 311
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb5ec4f217209560800000000000000
+      internalID: 7318392356847115233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_Gradient_Yellow
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1515
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bb7108471fca480800000000000000
+      internalID: -8886462482041291907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_BG_Border_Box
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1508
+        width: 158
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e58a31c3a41dcc40800000000000000
+      internalID: 5534102210662270438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Restart
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 802
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80cafb285347baa0800000000000000
+      internalID: -6145369120549715829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swipe_to_Play
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 634
+        width: 716
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcd23165281c5740800000000000000
+      internalID: 5142011423373843709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 528
+        width: 678
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08769334e07c091d0800000000000000
+      internalID: -3345955659064973440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Excellent
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 289
+        width: 480
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01b9a38386fea890800000000000000
+      internalID: -7444742089286766325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Try_Again
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 395
+        width: 500
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e578d9250629fcc0800000000000000
+      internalID: -3676865817152555543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard_Panel
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 22
+        width: 900
+        height: 914
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b766c2d6c3405a780800000000000000
+      internalID: -8672520849855846789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Count_BG
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1560
+        width: 300
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2531c5ed859d390800000000000000
+      internalID: -7793099968137178379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_Icon
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 849
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99fb2003c849e750800000000000000
+      internalID: 6334674353232017821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_Job
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 165
+        width: 482
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ae754ac29a19490800000000000000
+      internalID: -7741220275272291685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_NL_BG
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1865
+        width: 444
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a9f7c7bd4e79420800000000000000
+      internalID: 2636827738186422851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_NL_Gradient
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1690
+        width: 430
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8f8a729349a8f60800000000000000
+      internalID: 8037399458195503335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_NL_Text
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1483
+        width: 269
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5f68e86e91260b0800000000000000
+      internalID: -5736994497292208647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_Gradient_Lime
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1514
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0724ae23abb97760800000000000000
+      internalID: 7456196967625139979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_BG_Border_Box_Lime
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1507
+        width: 158
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac6479755eb36130800000000000000
+      internalID: 3558897404871994543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Pause
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 823
+        width: 70
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4fae91700d1bfc0800000000000000
+      internalID: -3480772308062505763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Resume
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 823
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504090843bcaeb860800000000000000
+      internalID: 7547659911527203845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard_Element_BG
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1381
+        width: 710
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d52d47496ff57b0800000000000000
+      internalID: -5233193124505690789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard_Element
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1265
+        width: 700
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d0fd3b5c8b57e40800000000000000
+      internalID: 5653628066499333488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard_Element_Number_BG
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1151
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8faec1e879e5f4a40800000000000000
+      internalID: 5354602486984141560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infinity_Symbol
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1100
+        width: 348
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2df4ed433d842220800000000000000
+      internalID: 2460246547940834606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown_Symbol
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 953
+        width: 180
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073fb6f165abc1e80800000000000000
+      internalID: -8206479541918764176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_Bar_BG_Fill
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 1926
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abc3482ac534cf10800000000000000
+      internalID: 2289013652986252195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_Bar_Heart_Icon
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1844
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24006d89ec9ed360800000000000000
+      internalID: 7196361781497824300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_Bar_BG
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 1711
+        width: 100
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f2bf3a9c8e8eff0800000000000000
+      internalID: -6499446703837367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_Bar_Slider_BG
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 1963
+        width: 520
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d33000870d6df00800000000000000
+      internalID: 1141328769399864671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_Bar_Slider_Fill
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 1902
+        width: 502
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 9, y: 0, z: 9, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33f9460655b60490800000000000000
+      internalID: -7780331925158628547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard_Element_InGame
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1300
+        width: 210
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978ad6f2d1c655790800000000000000
+      internalID: -7542003128356460423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard_Element_Number_BG_InGame
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1223
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3845e661b33ab00800000000000000
+      internalID: 838578923147396022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_BG_Border_Box_Yellow_Small
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 1528
+        width: 146
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf8a418b7f4c1330800000000000000
+      internalID: 3682905987150942143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_BG_Border_Box_Pink_Small
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 1528
+        width: 146
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5146a16c637ca4630800000000000000
+      internalID: 3912158264390476821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_Gradient_Yellow_Small
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 1381
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d74ee14a11ccd8e0800000000000000
+      internalID: -1667245443514480688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_Gradient_Pink_Small
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1381
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15e5364ba7f57080800000000000000
+      internalID: -9190167149590223589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Icon
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 838
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb3be414bcfabf20800000000000000
+      internalID: 3439339115826068474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image_Ready
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 1152
+        width: 424
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106e6b9f68ad68f80800000000000000
+      internalID: -8104550206156642815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image_Set
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 1046
+        width: 243
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ac615992dc037d0800000000000000
+      internalID: -2940624978194281934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image_Go
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 941
+        width: 193
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f77cf5ec96d4a30800000000000000
+      internalID: 4201130362497630015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SugarRush_Slider_Fill
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 1538
+        width: 80
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53616bca0ed5a6a90800000000000000
+      internalID: -7319935024785648075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SugarRush_Slider_BG
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 1528
+        width: 100
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22875c8ada86a8fa0800000000000000
+      internalID: -5797706475215947742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SugarRush_Icon
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 1469
+        width: 83
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c170c54b258e0370800000000000000
+      internalID: 8290710384935989704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Size_Up_S
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1264
+        width: 69
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0159797959e50680800000000000000
+      internalID: -8789362527244300021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Size_Up_I
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 1264
+        width: 30
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77510c3bf687a9770800000000000000
+      internalID: 8618333258079278455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Size_Up_Z
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1265
+        width: 76
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86866bfe04d1184c0800000000000000
+      internalID: -4287113205543180184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Size_Up_E
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 1265
+        width: 73
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0f2d06af3f82280800000000000000
+      internalID: -9067729593018683176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Size_Up_U
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 1264
+        width: 81
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc17fe40e8d6a4730800000000000000
+      internalID: 3984117277098209743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Size_Up_P
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 1265
+        width: 73
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5eebd0eb6e9f66d0800000000000000
+      internalID: -2995001041006891427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Size_Up_!
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 1265
+        width: 31
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e2bd75a74395050800000000000000
+      internalID: 5789716496026119838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Calorie_Meter
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 1403
+        width: 86
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6884b684dc880620800000000000000
+      internalID: 2740595217675880556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_IO_UI_Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1371
+        width: 421
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9347cd13f9b9ed0800000000000000
+      internalID: -2406154539398579772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_IO_UI_Atlas_33
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1372
+        width: 692
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c55bd2761cf43b0800000000000000
+      internalID: -5525985568867656586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_IO_UI_Atlas_34
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 1340
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6990e978ef1c79c50800000000000000
+      internalID: 6672014671913814422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Icons_Water
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1202
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8016bdb4ecc4dd170800000000000000
+      internalID: 8204798545058554120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_IO_UI_Atlas_36
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 1276
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc1d2638a88063d0800000000000000
+      internalID: -3215419877897724688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Icons_Happy
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1064
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac79e165856d9fb50800000000000000
+      internalID: 6627564001542707146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Icons_Fire
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1064
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0aa0b91cd6f83160800000000000000
+      internalID: 7005620645559052810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Icons_Angry
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 912
+        width: 129
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281fa079d22b3b700800000000000000
+      internalID: 554983087974052226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Icons_Wind
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 912
+        width: 128
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955df509d8d0f5220800000000000000
+      internalID: 2476713221740811609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_IO_UI_Atlas_41
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 780
+        width: 129
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3c3060ff10fb9c0800000000000000
+      internalID: -3909403756705102861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Icons_Sword
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 773
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40eb462659d1e17b0800000000000000
+      internalID: -5251727588029317628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Icons_Flag_Germany
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 772
+        width: 132
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31424103964b10860800000000000000
+      internalID: 7494469618792408083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Icons_Helm
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 623
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd4454c651f027e0800000000000000
+      internalID: -1792167296730116668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Icons_Flag_France
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 624
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053e07eccad264030800000000000000
+      internalID: 3478517982411416400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Icons_Bomb
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 470
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17aa4d124addf1a10800000000000000
+      internalID: 1882466866276117105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Icons_Flag_Italy
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 473
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae86094512b7cf30800000000000000
+      internalID: 4595837749244104355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Icons_Pirate_Cap
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 320
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71d97516ef1c89d0800000000000000
+      internalID: -2770804597676453505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Icons_Shield
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 320
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5a14dcd2eed9570800000000000000
+      internalID: 8475191954265712077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Icons_Flag_USA
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 322
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e85b3837280d430800000000000000
+      internalID: 3805685117770632788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Icons_Rook
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 170
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4681f98eff9d9d0800000000000000
+      internalID: -2748884722966305625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_IO_UI_Atlas_53
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 159
+        width: 133
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8232fa910221590800000000000000
+      internalID: -7705060717792909105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Icons_Pirate
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 170
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cd206d123735a60800000000000000
+      internalID: 7661593980248972370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Icons_Flag_UK
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 172
+        width: 129
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7c7404b6d519dd0800000000000000
+      internalID: -2481099204483102776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Icons_Knight
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 20
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbbcd0591670e5b0800000000000000
+      internalID: -5341139306958505013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Icons_Rocket
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 20
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca0892108a4c41c0800000000000000
+      internalID: -4518154412231226686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Icons_Flag_Spain
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 22
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cbcc067746499f0800000000000000
+      internalID: -462634397824402428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 42568543e0f350f489ee7f12fd4ba7af
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6175776207404126780
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 192730093644903814, guid: e09008d3087195549ba3e192d8b03e08, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1464280402565373165, guid: e09008d3087195549ba3e192d8b03e08, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043467102416879520, guid: e09008d3087195549ba3e192d8b03e08, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2919869540648744476, guid: e09008d3087195549ba3e192d8b03e08, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4265286531236628691, guid: e09008d3087195549ba3e192d8b03e08, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5911062826212541566, guid: e09008d3087195549ba3e192d8b03e08, type: 3}
+      propertyPath: m_Name
+      value: Shop_IceCream
+      objectReference: {fileID: 0}
+    - target: {fileID: 6432126521692528324, guid: e09008d3087195549ba3e192d8b03e08, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6432126521692528324, guid: e09008d3087195549ba3e192d8b03e08, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -40
+      objectReference: {fileID: 0}
+    - target: {fileID: 6432126521692528324, guid: e09008d3087195549ba3e192d8b03e08, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6432126521692528324, guid: e09008d3087195549ba3e192d8b03e08, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6432126521692528324, guid: e09008d3087195549ba3e192d8b03e08, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6432126521692528324, guid: e09008d3087195549ba3e192d8b03e08, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 6432126521692528324, guid: e09008d3087195549ba3e192d8b03e08, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6432126521692528324, guid: e09008d3087195549ba3e192d8b03e08, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6432126521692528324, guid: e09008d3087195549ba3e192d8b03e08, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6432126521692528324, guid: e09008d3087195549ba3e192d8b03e08, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6432126521692528324, guid: e09008d3087195549ba3e192d8b03e08, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6713149723268754300, guid: e09008d3087195549ba3e192d8b03e08, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7147185443158144703, guid: e09008d3087195549ba3e192d8b03e08, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e09008d3087195549ba3e192d8b03e08, type: 3}
